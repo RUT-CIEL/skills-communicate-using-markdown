@@ -3,3 +3,7 @@
 test markdown
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` c++
+cout << "test";
+```
